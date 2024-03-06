@@ -1,4 +1,4 @@
-# MobileAiSacn
+# MobileAiSacn Public
 手机App城市市容违规AI巡查，TensorFlowLite Model Maker
 端云结合更高效，可以离线运行
 
