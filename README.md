@@ -4,4 +4,6 @@
 
 体验App ： https://www.pgyer.com/cityAiScan
 
+交流体验请issues 区留言，谢谢
+
 ![WechatIMG1070](https://github.com/AnyLifeZLB/MobileAiSacn/assets/15169396/6ffca6c8-b1d4-4e76-a1e9-93e0eda05644)
